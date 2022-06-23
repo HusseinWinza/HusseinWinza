@@ -3,10 +3,10 @@
 
 ## Core skills & specialization
 
-- **Business domains**: Automotive, Government Services, e-Commerce, Gambling, Media Streaming, Video on Demand, Enterprise Systems
-- **Methodologies**: Extreme Programming, P-Programming, Dev/Sec/Test/Ops, Continuous Integration, Deployment & Delivery, 12-factor Apps, Business-Driven Development, Cloud-Native Applications
+- **Business domains**: Automotive, Government Services, e-Commerce,Enterprise Systems
+- **Methodologies**: Extreme Programming,  Dev/Sec/Test/Ops, Continuous Integration, Deployment & Delivery, 12-factor Apps, Business-Driven Development, Cloud-Native Applications
 - **System Design**: Microservices, CQRS, Client-Server, ADR, HA
-- 
+- **Test Automation**: xUnit-family, Cucumber, Jest, Selenium, Gatling, Taurus
 <!--
 **HusseinWinza/HusseinWinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
