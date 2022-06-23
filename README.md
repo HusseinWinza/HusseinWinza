@@ -3,11 +3,11 @@
 
 ## Core skills & specialization
 
-- **Business domains**: Automotive, Government Services, e-Commerce,Enterprise Systems
+- **Business domains**: 
 - **Web Design**: 
-- - **Web Development**: 
-- - **Web Maintainace**: 
-- **Test Automation**: xUnit-family, Cucumber, Jest, Selenium, Gatling, Taurus
+- **Web Development**: 
+- **Web Maintainace**: 
+- **Test Automation**:
 <!--
 **HusseinWinza/HusseinWinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
