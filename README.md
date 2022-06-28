@@ -12,7 +12,7 @@
 - **Web Design**: 
 - **Web Development**: 
 - **Web Maintainace**: 
-- **Test Automation**:
+- **Test Automation **:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
